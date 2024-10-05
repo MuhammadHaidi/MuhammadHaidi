@@ -7,7 +7,6 @@ I'm a Data Science Students,
 Hi! I'm a Junior Data Scientist still learning and growing in the world of data science. I'm passionate about exploring how data can solve complex problems and create impactful solutions. While building my foundation in Python, SQL, and libraries like Pandas, NumPy, and Scikit-learn, I'm continuously learning about machine learning, data analysis, and visualization. Currently, I'm focused on improving my understanding of statistics, data modeling, and exploring different machine learning algorithms. I enjoy working on personal projects that challenge me and help me grow as a data scientist. I'm always open to collaboration and feedback as I continue to expand my skill set and knowledge. Feel free to explore my repositories where I document my learning journey and experiment with various data science techniques.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [Europe Hotel Booking Satisfaction Score](http://https://www.linkedin.com/posts/haidii_python-for-data-science-activity-7200885705785446400-vbIX?utm_source=share&utm_medium=member_desktop)
 * ✉️  You can contact me at [mhaidi595@gmail.com](mailto:mhaidi595@gmail.com)
 * 🧠  I'm learning Data Science/Data Analyst
 * 🤝  I'm open to collaborating on interesting projects
